@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eridangs
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in learning backend connections 
+- 🌱 I’m currently learning desktop development
 - ⚡ Fun fact: I'm vegan
 
 <!---
